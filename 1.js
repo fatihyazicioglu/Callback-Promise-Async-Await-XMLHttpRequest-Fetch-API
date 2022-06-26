@@ -1,6 +1,6 @@
 document.getElementById("btn").addEventListener("click", 
 function () {
-    alert("error")
+    alert("Hallo!")
     setTimeout(() => {
         console.log("clicked")
     }, 4000);
